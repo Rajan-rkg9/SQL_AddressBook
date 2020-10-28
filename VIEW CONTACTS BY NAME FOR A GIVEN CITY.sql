@@ -1,0 +1,1 @@
+select * from Address_Book where city = 'Panki' order by first_name asc , last_name asc
