@@ -1,0 +1,3 @@
+insert into Address_Book (first_name,last_name,address_name,address_type,address,city,state,zip,phone_number,email) values ('Pankaj','Gupta','Family_Book','Family','Obra','Aurangabad','Bihar','887622','9873453201','pkg@gmail.com'),
+																															('Sandeep','Soni','Friend_Book','Friend','Garhwa','Garhwa','Jharkhand','882002','9871113201','soni@gmail.com'),
+																															('Gaurav','Kumar','Professional_Book','Professional','Dumka','Dumka','Jharkhand','880072','9887553201','ASE@gmail.com');
